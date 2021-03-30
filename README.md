@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajeevtsnair
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Coding, Security and Networking
+- 🌱 I’m currently and always learning new things in programming
 - 💞️ I’m looking to collaborate on Small projects involving Python and Bash scripts
 - 📫 How to reach me email - rajeevtsnair@gmail.com
 
